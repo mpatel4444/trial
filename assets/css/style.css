@@ -48,6 +48,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+.men:hover{
+    color: rgb(83, 41, 41);
+    
+}
+
+
+
 /* TEXT STYLES */
 
 a {
