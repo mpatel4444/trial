@@ -119,6 +119,7 @@ p {
 .btn:visited{
     text-transform: uppercase;
     text-decoration: none;
+    letter-spacing: 8px;
     display: inline;
     padding: 15px 40px;
     border-radius: 30px;
